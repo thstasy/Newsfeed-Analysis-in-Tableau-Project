@@ -33,4 +33,16 @@ Following the data extracted from the provided CSV files, the image above illust
 ### **4. Recommendations to Enhance User Interaction**
 - **Insight**: Focus on enhancing the visibility and interaction of subtypes that are frequent but less engaging.
    - **Text Posts**, despite being common, have low engagement. More interactive content like polls or visuals could boost interest.
-   - Boosting the visibility of​⬤
+   - Boosting the visibility of **Goal** posts through challenges or peer recognition could further encourage sharing.
+   - Highlighting achievements with community recognition could drive additional user engagement.
+
+### **5. Additional Insights**
+- **Comment Engagement**: **Course Certificates** generate the highest number of comments, showing a strong user response to achievement-based posts.
+   - Encouraging peer interaction through comments on achievements fosters a sense of community.
+   - Introducing features for users to congratulate or comment on milestones could boost interaction rates further.
+
+## **Conclusion**
+The analysis reveals areas of opportunity to increase engagement and refine content strategies within the newsfeed. By focusing on underperforming subtypes, promoting interactive content, and leveraging community-driven features, we can optimize the user experience and ensure higher engagement across the platform.
+
+---
+*Source: [Newsfeed Analysis in Tableau](https://learn.365datascience.com/projects/newsfeed-analysis-in-tableau/)*
