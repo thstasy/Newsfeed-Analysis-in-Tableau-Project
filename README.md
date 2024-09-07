@@ -4,6 +4,7 @@
 The **Newsfeed Analysis** project focuses on providing insights into user engagement and content performance within the newsfeed platform. The target audience includes **product managers, content strategists, and UX designers**, aiming to enhance user interaction and ensure content resonates with the audience.
 
 *This report is based on the project exercise from [365 Data Science](https://learn.365datascience.com/projects/newsfeed-analysis-in-tableau/).*
+*The complete Tableau portfolio is here: https://public.tableau.com/app/profile/stasy.hsieh/viz/NewsFeedAnaysisDashboard/Dashboard2#1*
 
 ## **Visual Overview**
 ![NewsFeedOverview](./NewsFeedOverview.png)
