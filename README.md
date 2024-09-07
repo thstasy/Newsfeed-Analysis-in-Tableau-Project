@@ -43,7 +43,9 @@ This project was designed to:
    - Introducing a feature where users can congratulate each other on achievements may further boost interactions.
 
 ## **Visual Overview**
-- For a more comprehensive understanding of the dashboard and insights, refer to **NewsFeedOverview.png**.
+- For a more comprehensive understanding of the dashboard and insights, refer to the image below:
+
+![NewsFeedOverview](./NewsFeedOverview.png)
 
 ## **Conclusion**
 This analysis highlights the areas of strength and improvement for the newsfeed feature. By understanding the patterns in user behavior and post subtype performance, targeted strategies can be implemented to enhance user engagement, foster community interaction, and ensure the platform remains relevant and engaging.
