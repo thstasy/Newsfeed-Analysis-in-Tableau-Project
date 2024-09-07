@@ -1,4 +1,4 @@
-# **Newsfeed Analysis Project Report**
+# **Newsfeed Analysis Project**
 
 ## **Project Overview**
 The **Newsfeed Analysis** project focuses on providing insights into user engagement and content performance within the newsfeed platform. The target audience includes **product managers, content strategists, and UX designers**, aiming to enhance user interaction and ensure content resonates with the audience.
